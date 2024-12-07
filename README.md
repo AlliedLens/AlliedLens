@@ -6,14 +6,27 @@
     <img src="./assets/alliedLens.gif" alt="AlliedLens" style="display: block; margin: 0 auto; width: 100%">
 </div>
 
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: Arial;">
+  <div style="text-align: center;"><b>Currently Jammin! to:</b></div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./assets/rockingchimp.gif" alt="Rocking Chimp">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5t4dg0s8i8c1d56d7m452a9re&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile">
+    </a>
+    <img src="./assets/rockingchimp.gif" alt="Rocking Chimp">
+  </div>
 </div>
 
 <div align="center">
+<p><b>Write something nice in my guest book:</b></p>
+<a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+
+
+<div align="center">
   <img src="./assets/eyesmove.gif" alt="eyes move">
-  <span>You are visitor no.</span>
+  <span><b>You are visitor no.</b></span>
   <img src="https://profile-counter.glitch.me/AlliedLens/count.svg" alt="hit counter" align="center">
   <img src="./assets/eyesmove.gif" alt="eyes move">
 </div>
