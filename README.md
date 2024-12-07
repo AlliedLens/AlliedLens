@@ -6,8 +6,8 @@
     <img src="./assets/alliedLens.gif" alt="AlliedLens" style="display: block; margin: 0 auto; width: 100%">
 </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: Arial;">
-  <div style="text-align: center;"><b>Currently Jammin! to:</b></div>
+<div align="center">
+  <div align="center"><b>Currently Jammin! to:</b></div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="./assets/rockingchimp.gif" alt="Rocking Chimp">
     <a href="https://github.com/kittinan/spotify-github-profile">
