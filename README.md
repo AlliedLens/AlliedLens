@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="./assets/intro.png" align="center" width="55%"> 
+    <img src="./assets/intro.png" align="center"> 
     <img src="./assets/alliedLens.gif" alt="Sample Image">  
 </div>
 
