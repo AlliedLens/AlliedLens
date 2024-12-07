@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-    <img src="./assets/intro.png" align="center"> 
-    <img src="./assets/alliedLens.gif" alt="Sample Image">  
+    <img src="./assets/intro.png" align="center" alt="Intro"> 
+    <img src="./assets/alliedLens.gif" align="center" alt="AlliedLens">  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alliedlens&label=Profile%20views&color=0e75b6&style=flat" alt="alliedlens" /> </p>
