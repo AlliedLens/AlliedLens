@@ -21,14 +21,31 @@
 <hr>
 <div align="center">
     <p><b>Write something nice in my guest book:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; ">
+  <div style="margin: 0 10px;">
+    <p><b>Connect With David!:</b></p>
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/email.gif" alt="Email" height="50"></a>
+  </div>
+
+  <div style="margin: 0 10px;">
+    <p><b>Follow David!:</b></p>
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/like-facebook.jpg" alt="Follow" height="50"></a>
+  </div>
+
+  <div style="margin: 0 10px;">
+    <p><b>Jam With David:</b></p>
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guitar.gif" alt="Jam" height="50"></a>
+  </div>
+</div>
+
 <hr>
 
 
 <div align="center">
   <img src="./assets/eyesmove.gif" alt="eyes move">
-  <span><b>You are visitor no.</b></span>
   <img src="https://profile-counter.glitch.me/AlliedLens/count.svg" alt="hit counter" align="center">
   <img src="./assets/eyesmove.gif" alt="eyes move">
 </div>
