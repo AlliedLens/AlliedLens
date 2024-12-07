@@ -33,8 +33,4 @@
   <img src="./assets/eyesmove.gif" alt="eyes move">
 </div>
 
-<marquee>
-    <img src="./assets/smile.gif">
-    <img src="./assets/thankyouforvisiting.png">
-    <img src="./assets/smile.gif">
-</marquee>
+<img src="./assets/marqueenobkg.gif">
