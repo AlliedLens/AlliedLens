@@ -34,3 +34,10 @@
 </div>
 
 <img src="./assets/marqueenobkg.gif">
+
+<div align="center">
+  <img src="./assets/ie.jpg" alt="IE" height="40">
+  <img src="./assets/linux-powered.png" alt="Linux Powered" height="40">
+  <img src="./assets/noframes.gif" alt="No Frames" height="40">
+  <img src="./assets/notepad.gif" alt="Notepad" height="40">
+</div>
