@@ -24,23 +24,29 @@
     <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
-<div align="center">
-  <div style="display: inline-block;">
-    <p><b>Connect With David!:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/email.gif" alt="Email" height="50"></a>
-  </div>
-  <div style="display: inline-block;">
-    <p><b>Follow David!:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/like-facebook.jpg" alt="Follow" height="50"></a>
-  </div>
-  <div style="display: inline-block;">
-    <p><b>Jam With David:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guitar.gif" alt="Jam" height="50"></a>
-  </div>
-</div>
 
 <hr>
 
+<div align="center">
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td>
+        <p><b>Connect With David!:</b></p>
+        <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/email.gif" alt="Email" height="50"></a>
+      </td>
+      <td>
+        <p><b>Follow David!:</b></p>
+        <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/like-facebook.jpg" alt="Follow" height="50"></a>
+      </td>
+      <td>
+        <p><b>Jam With David:</b></p>
+        <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guitar.gif" alt="Jam" height="50"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
 
 <div align="center">
   <img src="./assets/eyesmove.gif" alt="eyes move">
