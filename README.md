@@ -1,6 +1,7 @@
-<img src="./assets/intro.png" align="center" width="55%"> 
-<img src="./assets/alliedLens.gif" alt="Sample Image">
-<h3 align="center">A passionate frontend developer from India</h3>
+<div style="text-align: center;">
+    <img src="./assets/intro.png" align="center" width="55%"> 
+    <img src="./assets/alliedLens.gif" alt="Sample Image">  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alliedlens&label=Profile%20views&color=0e75b6&style=flat" alt="alliedlens" /> </p>
 
