@@ -1,5 +1,7 @@
-<div style="text-align: center;">
+<div align: center>
     <img src="./assets/intro.png" align="center" alt="Intro"> 
+</div>
+<div align: center>
     <img src="./assets/alliedLens.gif" align="center" alt="AlliedLens">  
 </div>
 
