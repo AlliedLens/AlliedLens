@@ -25,23 +25,18 @@
 </div>
 
 <div align="center">
-<div style="display: flex; justify-content: center; align-items: center;">
-
-<div style="margin: 0 10px;">
+  <div style="display: inline-block;">
     <p><b>Connect With David!:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/email.gif" alt="Email" height="75"></a>
-</div>
-
-<div style="margin: 0 10px;">
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/email.gif" alt="Email" height="50"></a>
+  </div>
+  <div style="display: inline-block;">
     <p><b>Follow David!:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/like-facebook.jpg" alt="Follow" height="75"></a>
-</div>
-
-<div style="margin: 0 10px;">
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/like-facebook.jpg" alt="Follow" height="50"></a>
+  </div>
+  <div style="display: inline-block;">
     <p><b>Jam With David:</b></p>
-    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guitar.gif" alt="Jam" height="75"></a>
-</div>
-</div>
+    <a href="https://github.com/AlliedLens/AlliedLens/issues"><img src="./assets/guitar.gif" alt="Jam" height="50"></a>
+  </div>
 </div>
 
 <hr>
